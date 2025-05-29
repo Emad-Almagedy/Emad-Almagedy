@@ -2,12 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Emad-Almagedy&height=100&section=header"/>
 </p>
 
-👨‍🎓 Computer Science and Engineering Student at Delhi Technological University  
-🚀 Passionate about Web and Software Development
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-Welcome to my GitHub profile! I'm Emad Abd al Fatah, a Computer Engineering student at Delhi Technological University, and I'm deeply enthusiastic about the world of web and software development.
-Here, you'll find a collection of my projects and contributions related to these fields.
+```yaml
+name: Emad Almagedy
+current_job: Full Stack Developer and ML Engineer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science and Engineering",
+  ]
 
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+  ]
+
+hobbies: ["Gaming", "Football", "design", "Art"]
+```
+  
+---  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emad-Almagedy&layout=compact)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
