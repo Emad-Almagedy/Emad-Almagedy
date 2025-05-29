@@ -11,8 +11,9 @@ Here, you'll find a collection of my projects and contributions related to these
 
 
 # 📫 Contact
-
-- **LinkedIn**: [Emad Abd al Fatah]([https://www.linkedin.com/in/emad-abd-al-fatah/](https://in.linkedin.com/in/emad-abd-al-fatah-kaid-b530b627b))
+  <a href="https://www.linkedin.com/in/emad-almagedy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/emad_almagedy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/emad.almagedy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 - **Email**: emadfatah123@gmail.com
 
 
