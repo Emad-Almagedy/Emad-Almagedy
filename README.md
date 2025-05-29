@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm Emad Abd al Fatah, a Computer Engineering stud
 Here, you'll find a collection of my projects and contributions related to these fields.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emad-Almagedy&theme=blue-green)
+https://github-readme-stats.vercel.app/api?username=Emad-Almagedy&show_icons=true&theme=blue-green
+
 
 
 # 📫 Contact
