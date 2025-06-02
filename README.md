@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Emad-Almagedy&height=100&section=header"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Emad-Almagedy&height=100&section=header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Emad%20Almagedy&section=header&reversal=true&fontColor=FFFFFF&fontSize=70&animation=fadeIn
+)"/>
 </p>
+
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -64,6 +67,6 @@ hobbies: ["Gaming", "Football", "design", "Art"]
 </a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=true&fontColor=FFFFFF&fontSize=70&animation=fadeIn)"/>
 </p>
 
