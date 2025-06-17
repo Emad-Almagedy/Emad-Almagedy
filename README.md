@@ -28,8 +28,7 @@ hobbies: ["Gaming", "Football", "design", "Art"]
   
 ---  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emad-Almagedy&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_Emad-Almagedy&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Emad-Almagedy&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
