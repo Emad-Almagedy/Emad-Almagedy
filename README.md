@@ -11,8 +11,8 @@ name: Emad Almagedy
 current_job: Full Stack Developer and ML Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Computer Science and Engineering",
+    " Developer and Designer",
+    "Bachelor's in Computer Science and Engineering with a minor in machine learning",
   ]
 
 fields_of_interests:
