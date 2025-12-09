@@ -26,8 +26,7 @@ fields_of_interests:
 hobbies: ["Gaming", "Football", "design", "Art"]
 ```
   
----  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emad-Almagedy&layout=compact)
+--- 
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
