@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Emad%20Almagedy&section=header&reversal=true&fontColor=FFFFFF&fontSize=70&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=100&lines=Emad+Almagedy;Full+Stack+Developer;ML+Engineer" alt="Emad Almagedy" />
 </p>
 
 ## 👨‍💻 About Me
