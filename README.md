@@ -4,12 +4,25 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer** and **Machine Learning Engineer** with a passion for building scalable web applications and intelligent systems. I hold a Bachelor's degree in Computer Science and Engineering with a specialized minor in Machine Learning.
+```yaml
+name: Emad Almagedy
+current_job: Full Stack Developer and ML Engineer
+education:
+  [
+    " Developer and Designer",
+    "Bachelor's in Computer Science and Engineering with a minor in machine learning",
+  ]
 
-* 🔭 **Currently working on:** Advanced Full Stack integrations and ML model optimization.
-* 🧠 **Interests:** UI/UX Design, Data Science, and Distributed Systems.
-* 🎨 **Creativity:** When not coding, I enjoy digital art, design, and football.
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+  ]
 
+hobbies: ["Gaming", "Football", "design", "Art"]
+```
 ---
 
 ## 🛠️ Tech Stack
