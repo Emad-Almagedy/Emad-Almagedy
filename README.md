@@ -6,7 +6,7 @@
 
 ```yaml
 name: Emad Almagedy
-current_job: Full Stack Developer and ML Engineer
+current_job: Backend Developer 
 education:
   [
     " Developer and Designer",
