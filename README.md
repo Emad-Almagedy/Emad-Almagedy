@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=90&pause=1500&color=F7F7F7&center=true&vCenter=true&width=900&height=180&lines=Emad+Almagedy;Computer+Engineer" alt="Emad Almagedy - Software Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=90&pause=1500&color=F7F7F7&center=true&vCenter=true&width=900&height=180&lines=Emad+Almagedy;Software+Developer" alt="Emad Almagedy - Software Developer" />
 </p>
 
 ## 👨‍💻 About Me
