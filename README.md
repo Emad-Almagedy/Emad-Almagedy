@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=90&pause=1500&color=F7F7F7&center=true&vCenter=true&width=900&height=180&lines=Emad+Almagedy;Computer+Engineer" alt="Emad Almagedy - Computer Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=90&pause=1500&color=F7F7F7&center=true&vCenter=true&width=900&height=180&lines=Emad+Almagedy;Computer+Engineer" alt="Emad Almagedy - Software Developer" />
 </p>
 
 ## 👨‍💻 About Me
 
 ```yaml
 name: Emad Almagedy
-current_job: Backend Developer 
+current_job: Software Developer 
 education:
   [
     "Bachelor's in Computer Science and Engineering with a minor in machine learning",
